@@ -14,7 +14,7 @@ from telegram.ext import (
 # =========================================
 # تنظیمات اصلی
 # =========================================
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8548575548:AAENfWfp8b_nc8Q-m5KUGJ1-_rUBW_enDE0")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 DOWNLOAD_DIR = "downloads"
 OUTPUT_DIR = "outputs"
 
